@@ -1,0 +1,2 @@
+# day-8-task
+DDL,DML,CLAUSES,JOINS
